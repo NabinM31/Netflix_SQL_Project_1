@@ -1,3 +1,2 @@
 Netflix Movies and TV Shows Project Using SQL 
-
-[Netflix_Logo](https://github.com/NabinM31/Netflix_SQL_Project/blob/main/logo.png)
+[Netflix Logo](https://github.com/NabinM31/Netflix_SQL_Project/blob/main/logo.png)

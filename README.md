@@ -1,3 +1,10 @@
+# Netflix Movies and TV Shows Data Analysis using SQL
+
+
+<p align="center">
+  <img src="logo.png" width="200" alt="Project Logo">
+</p>
+
 
 ##  📢 About This Project
 This repository contains an **SQL-based Netflix Data Analysis** project. It involves working with a Netflix dataset to extract meaningful insights using SQL queries. The dataset includes details about movies, TV shows, ratings, genres, and more.
@@ -59,16 +66,6 @@ CREATE TABLE netflix_data (
 - 🏆 **Highest-rated movies and TV shows**  
 - 📅 **Content release trends by year**  
 - 🕵️‍♂️ **Exploring hidden insights with SQL functions**  
-
----
-
-## 🛠 Setup Instructions
-1. **Clone the repository:**  
-   ```sh
-   git clone https://github.com/your-username/netflix-data-analysis.git
-   ```
-2. **Import the dataset into your SQL database.**
-3. **Run the SQL queries from the provided script.**
 
 ---
 

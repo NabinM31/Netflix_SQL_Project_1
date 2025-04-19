@@ -1,7 +1,5 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
-<p align="center">
-  <img src="https://img.shields.io/badge/Project%20Status-Completed-brightgreen" alt="Project Status Badge"/>
-  <img src="https://img.shields.io/badge/SQL-PostgreSQL-blue" alt="PostgreSQL Badge"/>
+![Built With](https://img.shields.io/badge/Built%20With-SQL-blue) ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 </p>
 <p align="center">
   <img src="logo.png" width="200" alt="Project Logo">

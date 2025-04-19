@@ -1,6 +1,8 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Project%20Status-Completed-brightgreen" alt="Project Status Badge"/>
+  <img src="https://img.shields.io/badge/SQL-PostgreSQL-blue" alt="PostgreSQL Badge"/>
+</p>
 <p align="center">
   <img src="logo.png" width="200" alt="Project Logo">
 </p>
@@ -74,15 +76,9 @@ CREATE TABLE netflix_data (
 📊 Extend the dataset by adding more Netflix data.  
 ⚡ Optimize queries for better performance.  
 
----
-
-## 📜 License
-📌 This project is licensed under the **MIT License** – feel free to use and modify it.
-
-📌 **🌟 Star this repo and follow for more SQL projects!** 🚀
-
 ---  
-🎯 **Happy Querying!** 🎯
+🍿 “Streaming the truth through SQL — this Netflix project is one binge you won’t regret!”
+⭐ Drop a star if you found it insightful!
 
 
 
